@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="twilioclient-android-1.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/SportsListener/libs/twilioclient-android-1.1.3-ad48713" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
